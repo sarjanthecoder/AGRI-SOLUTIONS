@@ -1,3 +1,4 @@
+8bcc5d2c-c67e-4025-b5d4-d0d594a69a58:46d34c28967254bd1bcecf17aa6a0fd9
 # Velgo Agrisolutions - Agricultural Consultancy Platform
 
 A modern, full-stack agricultural consultancy platform connecting farmers with expert services through an intuitive web interface.
